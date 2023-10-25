@@ -1,0 +1,9 @@
+/home/yu/autonomy_ws/build/autonomy_repo/CMakeFiles/uninstall.dir
+/home/yu/autonomy_ws/build/autonomy_repo/CMakeFiles/autonomy_repo_uninstall.dir
+/home/yu/autonomy_ws/build/autonomy_repo/CMakeFiles/test.dir
+/home/yu/autonomy_ws/build/autonomy_repo/CMakeFiles/edit_cache.dir
+/home/yu/autonomy_ws/build/autonomy_repo/CMakeFiles/rebuild_cache.dir
+/home/yu/autonomy_ws/build/autonomy_repo/CMakeFiles/list_install_components.dir
+/home/yu/autonomy_ws/build/autonomy_repo/CMakeFiles/install.dir
+/home/yu/autonomy_ws/build/autonomy_repo/CMakeFiles/install/local.dir
+/home/yu/autonomy_ws/build/autonomy_repo/CMakeFiles/install/strip.dir
